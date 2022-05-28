@@ -1,0 +1,10 @@
+.paper-links {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px:
+}
+
+.paper-links li {
+    float:left;
+    padding: 0px 10px 0px 0px;
+}

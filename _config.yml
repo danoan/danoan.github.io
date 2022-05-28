@@ -1,0 +1,36 @@
+# Site settings
+title: Daniel Martins Antunes
+description: 'Business Card Page'
+url: 'https://danoan.github.com'
+baseurl: ''
+profilepic: '/assets/images/avatar.jpg'
+bkimage: '/assets/images/bg-high.jpg'
+# google_analytics: UA-XXXXXX-X
+# font_awesome: '342aeb5614.js'
+
+author:
+  name: 'Daniel Martins Antunes'
+  email: martinsantunes.daniel@gmail.com
+#  twitter_username: notwitter
+#  facebook_username: nofacebook
+  github_username:  danoan
+  linkedin_username:  daniel-martins-antunes
+#  meetup_name: nomeetup
+
+# Build settings
+destination: _site
+markdown: kramdown
+highlighter: rouge
+
+sass:
+    sass_dir: _sass
+    style: compressed
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+#plugins: ['jekyll-paginate']
+exclude: ['README.md', 'screenshot-overview.png']

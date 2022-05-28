@@ -1,0 +1,10 @@
+# projects section data
+- name: Shape Evolution and Image Segmentation via Elastica Regularization 
+  gh_user: danoan
+  repo: graph-flow
+  img: https://repository-images.githubusercontent.com/238442257/d0d85d80-761a-11eb-9c69-dea55a447b29
+
+- name: Multiple Type Lazy Combinations in C++
+  gh_user: danoan
+  repo: maglac
+  img: https://repository-images.githubusercontent.com/182939697/8ec3a780-ad65-11e9-917b-dcc66896830a 

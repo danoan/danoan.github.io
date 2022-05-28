@@ -1,0 +1,36 @@
+# papers section data
+- title: Elastica Regularization via Graph Cuts 
+  webpage: /graph-flow/
+  desc: Shape evolution and image segmentation via elastica regularization and graph cuts.
+  img: /assets/images/papers/graph-flow/graph-flow-icon.png
+  slides: https://drive.google.com/file/d/1lvIwkVZtsikXcRJxrfIuCQrIhFZgi4Od/view?usp=sharing 
+   
+- title: Geometric Constraints and Variational Approaches to Image Analysis (PhD Thesis) 
+  webpage: https://tel.archives-ouvertes.fr/tel-03560490/
+  desc: >
+      The thesis investigate image analysis methods based on geometric priors, mainly
+      curvature. The thesis presents an overview of continuous and discrete methods 
+      and introduce four new models where we explore the use of multigrid convergent
+      estimators to estimate the geometric quantities that are used as priors.  
+  img: /assets/images/papers/phd-thesis/phd-thesis-icon.png
+  paper: https://tel.archives-ouvertes.fr/tel-03560490/document 
+  slides: https://drive.google.com/file/d/1lvIwkVZtsikXcRJxrfIuCQrIhFZgi4Od/view?usp=sharing 
+
+- title: "An elastica-driven digital curve evolution model for image segmentation" 
+  webpage: /elastica-driven/
+  desc: >
+      Combinatorial model for image segmentation with curvature regularization.
+  img: /assets/images/papers/elastica-driven/elastica-driven-icon.png
+  paper: https://link.springer.com/article/10.1007/s10851-020-00983-4
+  slides: https://slides.com/danielmartinsantunes/digital-curvature-flow-dgci2019
+
+- title: "Combinatorics of Local Search: An Optimal 4-Local Hall's Theorem for Planar Graphs" 
+  webpage: /local-search/
+  desc: >
+      We prove a tight bound for a local Hall's theorem for planar graphs. This 
+      bound is appliable to the complexity analysis of several combinatorial 
+      problems based on local search.
+  img: /assets/images/papers/local-search/local-search-icon.png
+  paper: https://hal.archives-ouvertes.fr/hal-01740357/
+  slides: https://drive.google.com/open?id=0B1FfdlgQzJvkYndTczNMWjJkbTA"
+

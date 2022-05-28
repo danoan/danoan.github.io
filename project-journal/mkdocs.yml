@@ -1,0 +1,9 @@
+nav:
+    - Organization: site-organization.md
+    - Sub-projects: 
+        - Landing Page: landing-page.md
+        - Blog: blog.md
+        - Papers: papers.md
+site_name: 'Project Journal: Personal Web Page'
+theme: material
+

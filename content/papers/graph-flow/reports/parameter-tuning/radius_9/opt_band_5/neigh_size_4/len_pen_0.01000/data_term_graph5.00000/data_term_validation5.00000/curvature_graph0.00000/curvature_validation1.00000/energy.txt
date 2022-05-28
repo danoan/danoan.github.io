@@ -1,0 +1,5 @@
+#Grabcut execution time: 0s 388ms 388007us 
+0.0000              7536.9376           
+1.0000              7536.9376           
+2.0000              7536.9376           
+#Execution time: 2s 2729ms 2729461us 
