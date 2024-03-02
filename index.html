@@ -59,6 +59,7 @@ robots: noindex
             {% endif %}
             <ul class="paper-links">
                 {% if paper.paper %}<li><a href="{{paper.paper}}">Paper</a></li>{% endif %}
+                {% if paper.report %}<li><a href="{{paper.report}}">Report</a></li>{% endif %}
                 {% if paper.slides %}<li><a href="{{paper.slides}}">Slides</a></li>{% endif %}
             </ul>
           </div>

@@ -10,6 +10,8 @@ segmentation model with the classical graph cut algorithm.
 
 Authors: Daniel Martins Antunes, Jacques-Olivier Lachaud and Hugues Talbot.
 
+Report: [HAL pre-print](https://cel.hal.science/PREPRINT/hal-04421328v1)
+
 ![Graph Flow Model](img/model-overview.png)
 
 # GitHub Project

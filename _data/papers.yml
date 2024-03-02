@@ -1,10 +1,16 @@
 # papers section data
-- title: Elastica Regularization via Graph Cuts 
+- title: Elastica Energy Regularization via Graph Cuts 
   webpage: /graph-flow/
-  desc: Shape evolution and image segmentation via elastica regularization and graph cuts.
+  desc: > 
+    We propose a graph cut model to optimize bidimensional shapes with respect
+    to the elastica energy and we show how our iterative and dicrete process relates with the 
+    curve-shortening flow. Our model can be included in an image segmentation pipeline and we 
+    provide a study to evaluate its effects on the segmentation task. 
   img: /assets/images/papers/graph-flow/graph-flow-icon.png
+  report:  https://cel.hal.science/PREPRINT/hal-04421328v1
   slides: https://drive.google.com/file/d/1lvIwkVZtsikXcRJxrfIuCQrIhFZgi4Od/view?usp=sharing 
-   
+
+
 - title: Geometric Constraints and Variational Approaches to Image Analysis (PhD Thesis) 
   webpage: https://tel.archives-ouvertes.fr/tel-03560490/
   desc: >
