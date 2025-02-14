@@ -1,4 +1,19 @@
 # projects section data
+- name: llm-assistant
+  gh_user: danoan
+  repo: llm-assistant
+  img: https://repository-images.githubusercontent.com/803172420/4ee38eda-d688-4ba7-974b-dffdc83dae41
+
+- name: word-def
+  gh_user: danoan
+  repo: word-def
+  img: https://repository-images.githubusercontent.com/749101558/4ee7b958-6801-41e2-807a-8e4b3e67bec2
+
+- name: Character and Improvisation Theme Generator
+  gh_user: danoan
+  repo: perchance-tools
+  img: https://repository-images.githubusercontent.com/787870538/6eebae8b-78c0-4d76-9587-2a2de069b782
+
 - name: journal-manager
   gh_user: danoan
   repo: journal-manager
